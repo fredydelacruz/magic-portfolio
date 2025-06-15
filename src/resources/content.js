@@ -1,8 +1,8 @@
 import { Logo } from "@once-ui-system/core";
 
 const person = {
-  firstName: "Fredy",
-  lastName: "De La Cruz",
+  firstName: "Sagrado",
+  lastName: "Rape",
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
@@ -53,9 +53,9 @@ const home = {
   path: "/",
   image: "/images/og/home.jpg",
   label: "Home",
-  title: `${person.name}'s Portfolio`,
+  title: `${person.name}`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Sagrado Rape</>,
+  headline: <>Guía Esencial del Rapé Medicinal</>,
   featured: {
     display: true,
     title: <>Recent project: <strong className="ml-4">Once UI</strong></>,
