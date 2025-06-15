@@ -1,5 +1,3 @@
-import { Logo } from "@once-ui-system/core";
-
 const person = {
   firstName: "Sagrado",
   lastName: "Rape",
@@ -58,7 +56,7 @@ const home = {
   headline: <>Guía Esencial del Rapé Medicinal</>,
   subline: (
     <>
-      El rapé es una medicina sagrada amazónica a base de tabaco y otras plantas, para limpieza energética y la conexión espiritual.
+      El rapé es una medicina sagrada amazónica a base de tabaco y otras plantas, para realizar limpieza energética del cuerpo y aumentar la conexión espiritual.
     </>
   ),
 };
